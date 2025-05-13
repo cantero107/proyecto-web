@@ -8,10 +8,19 @@ body {
 }
 
 header, footer {
-    background-color: #ff9100;
-    color: rgb(211, 36, 196);
     text-align: center;
     padding: 1em 0;
+}
+
+header {
+    background: linear-gradient(to right, #FF6B6B, #4B7BEC);
+    color: white;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    background-color: #ff9100;
+    color: rgb(211, 36, 196);
 }
 
 main {
