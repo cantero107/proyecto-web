@@ -28,4 +28,3 @@ Esta versión incluye las siguientes características:
 - Optimización de la estructura HTML para mejorar la semántica
 - Implementación de estilos responsive para mejor visualización en diferentes dispositivos
 
-¡Buena suerte! 🎉
